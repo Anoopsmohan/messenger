@@ -1,3 +1,3 @@
 # Messenger
 
-Messenger API with JAX-RS and Jersey.
+Messenger REST API with JAX-RS and Jersey.
